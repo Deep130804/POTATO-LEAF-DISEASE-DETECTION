@@ -7,7 +7,7 @@ This project is a deep learning-based system for detecting potato diseases using
 
 The app is deployed on [Streamlit](https://charan.streamlit.app/) and can be accessed via the link below:
 
-[Potato Leaf Disease Detection App](https://charan.streamlit.app/)
+https://charan.streamlit.app/
 
 ## 🛠 How to Run Locally
 
